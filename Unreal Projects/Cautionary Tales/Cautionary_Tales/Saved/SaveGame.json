@@ -1,0 +1,17 @@
+{
+	"playerPosition":
+	{
+		"x": -4160,
+		"y": -820,
+		"z": 195.14978330122102
+	},
+	"streamingLevelName": "/Game/Levels/Level_01",
+	"enemyPosition":
+	{
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"enemyState": "ST_NONE",
+	"isEnemyActive": false
+}
